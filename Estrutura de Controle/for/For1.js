@@ -7,7 +7,7 @@ while (contador <= 10) {
 //Criando o mesmo exemplo de cima, só que com for.
 
 console.log(" ")
-//Na estrutura for primeiro tem que ser criada uma variável uma condição, e por ultimo pedir para executar algo.
+//Na estrutura for primeiro tem que ser criada uma variável uma condição, e por ultimo o inclemento.
 for (let i = 1; i <= 10; i++) {
     console.log(`Carregando... ${i}`)
 }
