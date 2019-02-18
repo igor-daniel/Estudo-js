@@ -7,4 +7,5 @@ function verificarsepassou(nota){
 }
 verificarsepassou(8)
 verificarsepassou(1)
-verificarsepassou("sim") //Tomar cuidado com isso. 
+verificarsepassou("sim") //Tomar cuidado com isso.
+
